@@ -1,6 +1,6 @@
 import { CompasIcon } from "../components/CompasIcon";
 import { Container } from "../components/Container";
-import { Footer, InputText } from "../components/Footer";
+import { Footer } from "../components/Footer";
 import { SubTitle } from "../components/SubTitle";
 import { Title } from "../components/Title";
 
